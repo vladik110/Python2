@@ -1,2 +1,2 @@
 # Python2
-![srcreenshot](screenshot.png)
+![srcreenshot](ответ.png)
